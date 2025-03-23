@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to StudyBank PROD cards"
+  contactDetails:
+    name: "Sit Amet - Product Owner"
+    email: "sit.amet@lipsum.com"
+  onCallSupport:
+    - (555) 333-1234
+    - (555) 333-1345

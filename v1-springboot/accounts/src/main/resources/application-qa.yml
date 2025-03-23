@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to StudyBank QA accounts"
+  contactDetails:
+    name: "Dolor Sit - QA Lead"
+    email: "dolor.sit@lipsum.com"
+  onCallSupport:
+    - (555) 444-1234
+    - (555) 444-1345

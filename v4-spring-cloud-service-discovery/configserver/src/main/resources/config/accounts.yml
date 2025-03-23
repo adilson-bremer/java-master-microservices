@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to StudyBank accounts"
+  contactDetails:
+    name: "Lorem Ipsum - Developer"
+    email: "lorem.ipsum@lipsum.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1345
